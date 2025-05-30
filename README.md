@@ -3,7 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/whitehat57?label=Follow&style=social)](https://github.com/whitehat57)
 [![](https://img.shields.io/badge/Support-Palestine-success?style=flat&logo=palestine&logoColor=white)](https://github.com/whitehat57)
 
-![whitehat57](img/header1.png)
+![whitehat57](img/github-header-image1.png)
 
 ## 🛡️ About Me
 
