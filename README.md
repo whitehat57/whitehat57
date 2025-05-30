@@ -9,6 +9,10 @@
 
 I'm a passionate cybersecurity enthusiast and Red Team developer with a strong commitment to digital security and freedom. By day, I work as a graphic designer and web developer, while dedicating my free time to bug hunting and security research.
 
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+
 ## 🔧 Technical Skills
 
 ### 💻 Programming Languages
